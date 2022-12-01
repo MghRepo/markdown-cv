@@ -5,9 +5,6 @@ title: Hugo BRUGEL CV
 # Hugo BRUGEL
 Inspecteur des finances publiques PSE.
 
-<div id="webaddress">
-<a href="MghRepo.github.io">MghRepo.github.io</a>
-
 ## Actuellement
 
 Stagiaire à l'école nationale des finances publiques de Toulouse.
