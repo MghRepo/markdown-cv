@@ -7,7 +7,7 @@ Inspecteur des finances publiques PSE.
 
 ## Actuellement
 
-Stagiaire à l'école nationale des finances publiques de Toulouse.
+Inspecteur des finances publiques PSE stagiaire à l'école nationale des finances publiques de Toulouse.
 
 ## Education
 
@@ -40,13 +40,13 @@ __Inspecteur des finances publiques stagiaire__, Programmation (Python), Linux a
 
 ### Centre d'intérêt
 
-* Open source à la maison, Linux (Ubuntu, Fedora, Archlinux), Sécurité informatique, Virtualisation (systemd-nspawn, qemu, libvirt, conteneurisation)
+- Open source, Linux (Ubuntu, Fedora, Archlinux), Sécurité informatique, Virtualisation (systemd-nspawn, qemu, libvirt, conteneurisation)
 
-* Jeu d'échecs
+- Jeu d'échecs
 
-* Jonglage
+- Jonglage
 
-* Sorties
+- Sorties
 
 <!-- ### Footer
 
