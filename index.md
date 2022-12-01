@@ -27,7 +27,7 @@ Inspecteur des finances publiques PSE stagiaire à l'école nationale des financ
 __Contrôleur des finances publiques programmeur stagiaire__, Programmation (COBOL/PHP), Linux, Réseau, Web (HTML/CSS/JS), Fiscalité, Comptabilité, Divers
   
 `2017`
-__Développeur web__, stage de 3 mois - JQuery, LAMP
+__Développeur web__, stage de 3 mois - JQuery, LAMP, Debian
 
 `2017-2018`
 __Exploitant de l'application KHQ__, Application de suivi et de comptabilité auxiliaire des chèques trésors - COBOL, Z/OS
@@ -40,7 +40,7 @@ __Inspecteur des finances publiques stagiaire__, Programmation (Python), Linux a
 
 ### Centres d'intérêts
 
-- Open source, Linux, Sécurité informatique, Virtualisation
+- Open source à la maison, Linux (Ubuntu, Fedora, Archlinux), Sécurité informatique, Virtualisation
 
 - Jeu d'échecs
 
