@@ -1,91 +1,55 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Hugo BRUGEL CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Hugo BRUGEL
+Inspecteur des finances publiques PSE.
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
-</div>
+<a href="MghRepo.github.io">MghRepo.github.io</a>
 
+## Actuellement
 
-## Currently
-
-Standing on the shoulders of giants
-
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
+Stagiaire à l'école nationale des finances publiques de Toulouse.
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+- Bac S spécialité sciences de l'ingénieur (mention assez bien) en 2009 - Lycée Laborde Basse (Castres 81)
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+- Classes préparatoires au grandes écoles (PTSI-PT) - Lycée Jean Dupuy (Tarbes 65)
 
-- Sizar
+- ENSEEIHT Télécommunication et Réseau - Toulouse (1ère année non achevée)
 
-`1667 - death`
-__Trinity College, Cambridge__
+- Réorientation License de physique (3ème année non achevée)
 
-- Fellow
+- Obtention du concours de contrôleur des finances publiques programmeur en 2016
 
+## Postes
 
+`2016-2017`
+__Contrôleur des finances publiques programmeur stagiaire__, Programmation (COBOL/PHP), Linux, Réseau, Web (HTML/CSS/JS), Fiscalité, Comptabilité, Divers
 
-## Awards
+`2017-2018`
+__Exploitant de l'application KHQ__, Application de suivi et de comptabilité auxiliaire des chèques trésors - technologies COBOL, JCL, Z/OS
 
-`2012`
-President, *Royal Society*, London, UK
+`2019-2022`
+__Intégrateur inter-applicatif__, Intégration de diverses applications dont KHQ modernisé - technologies, machines virtuelles Linux (CentOS), Bash
 
-Associate, *French Academy of Science*, Paris, France
+`2O22-2023`
+__Inspecteur des finances publiques stagiaire__, Programmation (Python), Linux avancé, Réseau avancé, DBA, Management, Divers
 
+### Centre d'intérêt
 
+* Open source à la maison, Linux (Ubuntu, Fedora, Archlinux), Sécurité informatique, Virtualisation (systemd-nspawn, qemu, libvirt, conteneurisation)
 
-## Publications
+* Jeu d'échecs
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+* Jonglage
 
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
+* Sorties
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: Décembre 2022 -->
 
 
