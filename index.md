@@ -28,6 +28,9 @@ Stagiaire à l'école nationale des finances publiques de Toulouse.
 
 `2016-2017`
 __Contrôleur des finances publiques programmeur stagiaire__, Programmation (COBOL/PHP), Linux, Réseau, Web (HTML/CSS/JS), Fiscalité, Comptabilité, Divers
+  
+`2017`
+__Développeur web__, stage de 3 mois - JQuery, LAMP
 
 `2017-2018`
 __Exploitant de l'application KHQ__, Application de suivi et de comptabilité auxiliaire des chèques trésors - COBOL, Z/OS
