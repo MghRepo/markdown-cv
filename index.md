@@ -30,10 +30,10 @@ Stagiaire à l'école nationale des finances publiques de Toulouse.
 __Contrôleur des finances publiques programmeur stagiaire__, Programmation (COBOL/PHP), Linux, Réseau, Web (HTML/CSS/JS), Fiscalité, Comptabilité, Divers
 
 `2017-2018`
-__Exploitant de l'application KHQ__, Application de suivi et de comptabilité auxiliaire des chèques trésors - technologies COBOL, JCL, Z/OS
+__Exploitant de l'application KHQ__, Application de suivi et de comptabilité auxiliaire des chèques trésors - technologies COBOL, Z/OS
 
 `2019-2022`
-__Intégrateur inter-applicatif__, Intégration de diverses applications dont KHQ modernisé - technologies, machines virtuelles Linux (CentOS), Bash
+__Intégrateur inter-applicatif__, Intégration de diverses applications dont KHQ modernisé - technologies, machines virtuelles Linux (CentOS), Postgresql, Bash
 
 `2O22-2023`
 __Inspecteur des finances publiques stagiaire__, Programmation (Python), Linux avancé, Réseau avancé, DBA, Management, Divers
