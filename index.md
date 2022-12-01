@@ -38,9 +38,9 @@ __Intégrateur inter-applicatif__, Intégration de diverses applications dont KH
 `2O22-2023`
 __Inspecteur des finances publiques stagiaire__, Programmation (Python), Linux avancé, Réseau avancé, DBA, Management, Divers
 
-### Centres d'intérêts
+## Centres d'intérêts
 
-- Open source à la maison, Linux (Ubuntu, Fedora, Archlinux), Sécurité informatique, Virtualisation
+- Open source, Linux (Ubuntu, Fedora, Archlinux), Sécurité informatique, Virtualisation
 
 - Jeu d'échecs
 
