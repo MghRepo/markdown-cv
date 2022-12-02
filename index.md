@@ -33,12 +33,12 @@ Préparation au concours de contrôleur des Finances Publiques programmeur
 `2016-2017`
 __Contrôleur des Finances Publiques programmeur stagiaire__, Programmation (COBOL/PHP), Linux, Réseau, Web (HTML/CSS/JS), Langage SQL, Fiscalité, Comptabilité, Divers
 
-### Etablissement de services informatiques, Nantes
+### Etablissement de Services Informatiques, Nantes
 
 `2017`
 __Développeur web ADO__, stage de 3 mois, développement d'un applicatif de plannification intranet - JQuery, LAMP, Debian
 
-### Etablissement de services informatiques, Rouen
+### Etablissement de Services Informatiques, Rouen
 
 `2017-2018`
 __Exploitant application KHQ__, Application de suivi et de comptabilité auxiliaire des chèques trésors - COBOL, Z/OS
