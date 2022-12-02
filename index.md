@@ -49,7 +49,7 @@ __Intégrateur inter-applicatif__, Intégration de diverses applications dont KH
 ### Enfip Toulouse
 
 `2O22-2023`
-__Inspecteur des finances publiques stagiaire__, Programmation (Python), Linux avancé, Réseau avancé, DBA, Management, Divers
+__Inspecteur des finances publiques PSE stagiaire__, Programmation (Python), Linux avancé, Réseau avancé, DBA (Postgresql/Oracle), Management, Divers
 
 ## Linguistique
 
