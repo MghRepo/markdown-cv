@@ -53,9 +53,9 @@ __Inspecteur des finances publiques PSE stagiaire__, Programmation (Python), Lin
 
 ## Linguistique
 
-- Anglais *courant*
+- Anglais courant
 
-- Espagnol *intermédiaire*
+- Espagnol intermédiaire
 
 ## Centres d'intérêts
 
