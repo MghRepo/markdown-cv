@@ -11,23 +11,34 @@ Inspecteur des Finances Publiques PSE stagiaire à l'école nationale des financ
 
 ## Education
 
-- Bac S spécialité sciences de l'ingénieur (mention assez bien) en 2009 - Lycée Laborde Basse (Castres 81)
+`2009`
+Bac S spécialité sciences de l'ingénieur (mention assez bien) - Lycée Laborde Basse (Castres 81)
 
-- Classes préparatoires au grandes écoles (PTSI-PT) - Lycée Jean Dupuy (Tarbes 65)
+`2009-2011`
+Classes préparatoires au grandes écoles (PTSI-PT) - Lycée Jean Dupuy (Tarbes 65)
 
-- ENSEEIHT Télécommunication et Réseau - Toulouse (1ère année non achevée)
+`2011-2012`
+ENSEEIHT Télécommunication et Réseau - Toulouse (1ère année non achevée)
 
-- Réorientation License de physique (3ème année non achevée)
+`2012-2015`
+Réorientation License de physique (3ème année non achevée)
 
-- Obtention du concours de contrôleur des finances publiques programmeur en 2016
+`2015-2016`
+Obtention du concours de contrôleur des finances publiques programmeur
 
 ## Postes
 
+### Enfip Toulouse
+
 `2016-2017`
-__Contrôleur des finances publiques programmeur stagiaire__, Programmation (COBOL/PHP), Linux, Réseau, Web (HTML/CSS/JS), Fiscalité, Comptabilité, Divers
-  
+__Contrôleur des finances publiques programmeur stagiaire__, Programmation (COBOL/PHP), Linux, Réseau, Web (HTML/CSS/JS), Langage SQL, Fiscalité, Comptabilité, Divers
+
+### Etablissement de services informatiques, Nantes
+
 `2017`
 __Développeur web__, stage de 3 mois - JQuery, LAMP, Debian
+
+### Etablissement de services informatiques, Rouen
 
 `2017-2018`
 __Exploitant de l'application KHQ__, Application de suivi et de comptabilité auxiliaire des chèques trésors - COBOL, Z/OS
@@ -35,12 +46,20 @@ __Exploitant de l'application KHQ__, Application de suivi et de comptabilité au
 `2019-2022`
 __Intégrateur inter-applicatif__, Intégration de diverses applications dont KHQ modernisé - machines virtuelles Linux (CentOS), Postgresql, Bash
 
+### Enfip Toulouse
+
 `2O22-2023`
 __Inspecteur des finances publiques stagiaire__, Programmation (Python), Linux avancé, Réseau avancé, DBA, Management, Divers
 
+## Linguistique
+
+- Anglais *courant*
+
+- Espagnol *intermédiaire*
+
 ## Centres d'intérêts
 
-- Open source, Linux (Ubuntu, Fedora, Archlinux), Sécurité informatique, Virtualisation
+- Open source, Linux@home (Ubuntu, Fedora, Archlinux), Administration, Sécurité informatique, Virtualisation
 
 - Jeu d'échecs
 
