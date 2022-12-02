@@ -1,9 +1,9 @@
 ---
 layout: cv
-title: Hugo BRUGEL CV
+title: Hugo BRUGEL
 ---
 # Hugo BRUGEL
-Inspecteur des Finances Publiques PSE.
+Inspecteur des Finances Publiques PSE
 
 ## Actuellement
 
@@ -36,12 +36,12 @@ __Contrôleur des finances publiques programmeur stagiaire__, Programmation (COB
 ### Etablissement de services informatiques, Nantes
 
 `2017`
-__Développeur web__, stage de 3 mois - JQuery, LAMP, Debian
+__Développeur web ADO__, stage de 3 mois, développement d'un applicatif de plannification intranet - JQuery, LAMP, Debian
 
 ### Etablissement de services informatiques, Rouen
 
 `2017-2018`
-__Exploitant de l'application KHQ__, Application de suivi et de comptabilité auxiliaire des chèques trésors - COBOL, Z/OS
+__Exploitant application KHQ__, Application de suivi et de comptabilité auxiliaire des chèques trésors - COBOL, Z/OS
 
 `2019-2022`
 __Intégrateur inter-applicatif__, Intégration de diverses applications dont KHQ modernisé - machines virtuelles Linux (CentOS), Postgresql, Bash
