@@ -24,7 +24,7 @@ ENSEEIHT Télécommunication et Réseau - Toulouse (1ère année non achevée)
 Réorientation License de physique (3ème année non achevée)
 
 `2015-2016`
-Obtention du concours de contrôleur des finances publiques programmeur
+Préparation au concours de contrôleur des finances publiques programmeur
 
 ## Postes
 
