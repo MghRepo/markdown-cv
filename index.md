@@ -18,10 +18,10 @@ Bac S spécialité sciences de l'ingénieur (mention assez bien) - Lycée Labord
 Classes préparatoires aux grandes écoles (PTSI-PT) - Lycée Jean Dupuy (Tarbes 65)
 
 `2011-2012`
-ENSEEIHT Télécommunication et Réseau - Toulouse (1ère année non achevée)
+ENSEEIHT Télécommunication et Réseau - Toulouse (1ère année inachevée)
 
 `2012-2015`
-Réorientation License de physique (3ème année non achevée)
+Réorientation License de physique (3ème année inachevée)
 
 `2015-2016`
 Préparation du concours de contrôleur des finances publiques programmeur
