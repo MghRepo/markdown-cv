@@ -15,7 +15,7 @@ Inspecteur des Finances Publiques PSE stagiaire à l'école nationale des financ
 Bac S spécialité sciences de l'ingénieur (mention assez bien) - Lycée Laborde Basse (Castres 81)
 
 `2009-2011`
-Classes préparatoires au grandes écoles (PTSI-PT) - Lycée Jean Dupuy (Tarbes 65)
+Classes préparatoires aux grandes écoles (PTSI-PT) - Lycée Jean Dupuy (Tarbes 65)
 
 `2011-2012`
 ENSEEIHT Télécommunication et Réseau - Toulouse (1ère année non achevée)
@@ -24,7 +24,7 @@ ENSEEIHT Télécommunication et Réseau - Toulouse (1ère année non achevée)
 Réorientation License de physique (3ème année non achevée)
 
 `2015-2016`
-Préparation au concours de contrôleur des finances publiques programmeur
+Préparation du concours de contrôleur des finances publiques programmeur
 
 ## Postes
 
@@ -76,7 +76,6 @@ __Inspecteur des finances publiques PSE stagiaire__, Programmation (Python), Lin
 - Sorties
 
 <!-- ### Footer
-
-Last updated: Décembre 2022 -->
+Dernière mise à jour : Décembre 2022 -->
 
 
