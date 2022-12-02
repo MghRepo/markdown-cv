@@ -57,6 +57,12 @@ __Inspecteur des finances publiques PSE stagiaire__, Programmation (Python), Lin
 
 - Espagnol intermédiaire
 
+## Projets publics
+
+<div id="webaddress">
+<a href="https://github.com/MghRepo/pse_documents">pse_documents</a>
+</div>
+
 ## Centres d'intérêts
 
 - Open source, Linux@home (Ubuntu, Fedora, Archlinux), Administration, Sécurité informatique, Virtualisation
