@@ -12,26 +12,26 @@ Inspecteur des Finances Publiques PSE stagiaire à l'école nationale des financ
 ## Education
 
 `2009`
-Bac S spécialité sciences de l'ingénieur (mention assez bien) - Lycée Laborde Basse (Castres 81)
+Bac S spécialité sciences de l'ingénieur (mention assez bien) - Lycée Laborde Basse (Castres)
 
 `2009-2011`
-Classes préparatoires aux grandes écoles (PTSI-PT) - Lycée Jean Dupuy (Tarbes 65)
+Classes préparatoires aux grandes écoles (PTSI-PT) - Lycée Jean Dupuy (Tarbes)
 
 `2011-2012`
-ENSEEIHT Télécommunication et Réseau - Toulouse (1ère année inachevée)
+Télécommunication et Réseau - ENSEEIHT Toulouse (1ère année inachevée)
 
 `2012-2015`
 Réorientation License de physique (3ème année inachevée)
 
 `2015-2016`
-Préparation du concours de contrôleur des finances publiques programmeur
+Préparation au concours de contrôleur des Finances Publiques programmeur
 
 ## Postes
 
 ### Enfip Toulouse
 
 `2016-2017`
-__Contrôleur des finances publiques programmeur stagiaire__, Programmation (COBOL/PHP), Linux, Réseau, Web (HTML/CSS/JS), Langage SQL, Fiscalité, Comptabilité, Divers
+__Contrôleur des Finances Publiques programmeur stagiaire__, Programmation (COBOL/PHP), Linux, Réseau, Web (HTML/CSS/JS), Langage SQL, Fiscalité, Comptabilité, Divers
 
 ### Etablissement de services informatiques, Nantes
 
@@ -49,7 +49,7 @@ __Intégrateur inter-applicatif__, Intégration de diverses applications dont KH
 ### Enfip Toulouse
 
 `2O22-2023`
-__Inspecteur des finances publiques PSE stagiaire__, Programmation (Python), Linux avancé, Réseau avancé, DBA (Postgresql/Oracle), Management, Divers
+__Inspecteur des Finances Publiques PSE stagiaire__, Programmation (Python), Linux avancé, Réseau avancé, DBA (Postgresql/Oracle), Management, Divers
 
 ## Linguistique
 
@@ -77,5 +77,3 @@ __Inspecteur des finances publiques PSE stagiaire__, Programmation (Python), Lin
 
 <!-- ### Footer
 Dernière mise à jour : Décembre 2022 -->
-
-
