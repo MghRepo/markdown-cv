@@ -60,7 +60,7 @@ __Inspecteur des Finances Publiques PSE stagiaire__, Programmation (Python), Lin
 ## Projets publics
 
 <div id="webaddress">
-<a href="https://github.com/MghRepo/pse_documents">pse_documents</a>
+<a href="https://mghrepo.github.io/pse-mdbook/index.html)">Fiches de préparation PSE</a>
 </div>
 
 ## Centres d'intérêts
