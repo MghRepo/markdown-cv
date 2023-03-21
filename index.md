@@ -26,6 +26,9 @@ Réorientation License de physique (3ème année inachevée)
 `2015-2016`
 Préparation au concours de contrôleur des Finances Publiques programmeur
 
+`2020-2022`
+Préparation au concours d'inspecteur des Finances Publiques programmeur système d'exploitation
+
 ## Postes
 
 ### Enfip Toulouse
