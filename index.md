@@ -66,6 +66,10 @@ __Inspecteur des Finances Publiques PSE stagiaire__, Programmation (Python), Lin
 <a href="https://mghrepo.github.io/pse-mdbook/index.html">Fiches de préparation PSE</a>
 </div>
 
+<div id="webaddress">
+<a href="https://mghrepo.github.io/kubespawn/index.html">Kubespawn</a>
+</div>
+
 ## Centres d'intérêts
 
 - Open source, Linux@home (Ubuntu, Fedora, Archlinux), Administration, Sécurité informatique, Virtualisation
